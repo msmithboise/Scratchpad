@@ -1,0 +1,11 @@
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.csprojAssemblyReference.cache
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.csproj.CoreCompileInputs.cache
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.AssemblyInfoInputs.cache
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.AssemblyInfo.cs
+C:\Users\mssmith\source\projects\scratchpad\bin\Debug\netcoreapp2.1\scratchpad.deps.json
+C:\Users\mssmith\source\projects\scratchpad\bin\Debug\netcoreapp2.1\scratchpad.runtimeconfig.json
+C:\Users\mssmith\source\projects\scratchpad\bin\Debug\netcoreapp2.1\scratchpad.runtimeconfig.dev.json
+C:\Users\mssmith\source\projects\scratchpad\bin\Debug\netcoreapp2.1\scratchpad.dll
+C:\Users\mssmith\source\projects\scratchpad\bin\Debug\netcoreapp2.1\scratchpad.pdb
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.dll
+C:\Users\mssmith\source\projects\scratchpad\obj\Debug\netcoreapp2.1\scratchpad.pdb
